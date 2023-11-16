@@ -1,0 +1,13 @@
+name = "Create: Dreams & Desires"
+filename = "Create-Dreams-n-Desires-1.19.2-0.2a.PREBETA.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JmybsfWs/versions/lLhDmF1Y/Create-Dreams-n-Desires-1.19.2-0.2a.PREBETA.jar"
+hash-format = "sha1"
+hash = "417f59c0acce5e22e47d50a9dac0f29f2b2cc289"
+
+[update]
+[update.modrinth]
+mod-id = "JmybsfWs"
+version = "lLhDmF1Y"

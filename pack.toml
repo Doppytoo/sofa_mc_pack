@@ -1,0 +1,13 @@
+name = "Sofa"
+author = "Doppytoo"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3d25e5c614dd2003268b603f49bb89bff1bccca111774b54f0d9b25cf486af01"
+
+[versions]
+forge = "43.3.0"
+minecraft = "1.19.2"
