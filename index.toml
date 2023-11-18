@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "df083734e3422b4cd86772138e428651e9e51dc07db2a94b8b865859ec57e1ae"
-
-[[files]]
-file = "index.html"
-hash = "ea9786121e04ee095d7573baeea2b089330d0aa44cc24347908dc6c1b194a7fb"
-
-[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "28d3c4567217bcb92694ac38637a2e1b21674410b8f1ce468e8f054ea35d7996"
 metafile = true
