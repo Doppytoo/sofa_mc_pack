@@ -101,6 +101,11 @@ hash = "79d38d4c976dadf89d2fd2978a0af50894ae0373fd784fecb369e47beda145bf"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "acc071e01274ae58653643951557cabbe36b269a1bcf497646fa06d3e70ec3db"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
@@ -176,6 +181,16 @@ hash = "21312550ea6783eb5de9ae365018f11594b5513aefaf64d5efed8e1459417ed7"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "d30f94aab18d9ad671e52d77c8b9b081c46d9084a7e8177d03b4723e1e094a4e"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-plus.pw.toml"
+hash = "8e0f5af61a6236cbf9df91a45b94c45d02e1e08fe88edcded121f46a575f2575"
+metafile = true
+
+[[files]]
 file = "mods/environmental.pw.toml"
 hash = "d84b2241468deba7bf5cf40a9fbdc5bf5b7655f3ef7846e7f4e5e76c105e8a0c"
 metafile = true
@@ -203,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "4638b07d166445da41d0f17e4300592be3592c4b62214081197794bd577443e4"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "c5cc662513953a95db0fc0c8d98186d1f1100478683520ed112f2cae64ea84e6"
 metafile = true
 
 [[files]]
@@ -263,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "92b4a9b24698ab7087bbb69ade86f8bbe77f6f402996669a6542a5b1c643fcb9"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
 metafile = true
 
 [[files]]
@@ -331,6 +356,11 @@ hash = "b0a69c4220630bac228b6fc063b04bea5b40e745ff6e158c2536caef8a35c1a5"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "4dccf1b369690e327c4b8c2ece64d1d3da0c2469602724174066749f92b3ff1c"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "1f20786408ae526f5df6a6cde7c04c4dd4afc2d87d5bc24a109687622f9db356"
 metafile = true
@@ -373,4 +403,54 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2b7c679c5cf225e879a3c3bee50890d5db74941ebc77f1da57ae057cdb638a31"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "b61abb40b16c046f95274f3012761aa2137401a8418fe6d0267ea912ea273a2a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "476ea531803288c9981593f3421b361deb77004d99787a30c0cf002fac82ef31"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "7cc80223648d39ab7e1270f69b7635b410c7bfbf9aa83e1e2c40919ca5b73fe7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "ae6e0ab8848b91fae6a78a2e4e810a826b9103cfb22c65a68d1b9e3c1a1ad0bf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "64fd7e17521fbeb2b14300f3cea0b0fceed041a5b0ddcfc5536c3210ba7f6908"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "b8ec83703b04e0b3182e04904f98fca9c4bf25324133a9c111e5a99f0c1b2551"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "9f49a58ea0e4d65cca9230370c200d67acb4a7ecbcb15960ea55f43bf5438b1a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "943714aedf7779f0720157a28de846929fd339f01a493244ce6a36a126febaa4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "0a27395851486e8347f33d4d48a01844b6a031c68b8fe6705880fbd491cb0305"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "d24a314558cf5a7f38417e99d558d90b88264ddff17c9d8f825d0b743aa55bf1"
 metafile = true
