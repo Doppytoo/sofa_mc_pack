@@ -191,6 +191,11 @@ hash = "8e0f5af61a6236cbf9df91a45b94c45d02e1e08fe88edcded121f46a575f2575"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "b37412171124265e13066099e57c9442bd61f471e594c6878a2d788df6a8927c"
+metafile = true
+
+[[files]]
 file = "mods/environmental.pw.toml"
 hash = "3a507bc00eca13590847da0b2f80a684587c6319270ed1cd79cb07ba871e0194"
 metafile = true
@@ -343,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/respiteful.pw.toml"
 hash = "1e891d594d590d7b16223f6916f7065637729c0a6654d4827defff4be9a7414e"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "dcbcc068c51504b43d2eb258b4b1b842d4aaaaf0a7c94a423c5117d5fc491d83"
 metafile = true
 
 [[files]]
