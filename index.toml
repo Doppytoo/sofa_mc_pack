@@ -326,11 +326,6 @@ hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "298fbac260fe9bea44902ba0e05e1ea36f8550bf73f40266f35846565783097c"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3c8aef907f4c6adcda0c224c1aaee50d95e65295d69cf9772aa05abce0afdb38"
 metafile = true
