@@ -1,12 +1,12 @@
 name = "Sofa"
 author = "Doppytoo"
-version = "0.1.1"
+version = "0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b23c32c69deb34e3840274b87985f1baaa58c9b7cf559ebfcc7a871404021c1c"
+hash = "7e2f18954f957ad4596d9025ee60ee9526b126636d478e547181987d89419427"
 
 [versions]
 forge = "43.3.0"

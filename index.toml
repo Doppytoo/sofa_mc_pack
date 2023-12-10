@@ -61,6 +61,11 @@ hash = "69eac4f7bca820219c1ad0b328679b760fd182905b97108bffbab48621f8ad7a"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "3369ccf13cbc0d0b3ca896002a55c64f56fe4903868cce9156a6dad22e99a46c"
+metafile = true
+
+[[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "9786a307fcd07b2ffe526de1c45bf758221a06a82e1c2b572316d754979d1806"
 metafile = true
@@ -72,12 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "f3d52a496a63a4abf11ae36d5bc91a92ae1ebe8e26dc40d1b0494e3eb1a73025"
-metafile = true
-
-[[files]]
-file = "mods/chicken-chunks-1-8.pw.toml"
-hash = "050a1c156ce1a9ae3ba6931962bb60b36db0eab79068a6ea3123abf38b96d5e6"
+hash = "fccc6b3c690cda345c9b396b54993fc9f36b25cfe99f2219e96b6f77c7bc0e0c"
 metafile = true
 
 [[files]]
@@ -93,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/clayworks.pw.toml"
 hash = "b18069f37f395c85c5f5f3da2d2b9e944b9ffc1f85e2ec7a15ea6e0639d5ba77"
-metafile = true
-
-[[files]]
-file = "mods/codechicken-lib-1-8.pw.toml"
-hash = "3d7d9fe5fa743ad268e052b85d1a810308fa906ead1b556261eacb8743d98863"
 metafile = true
 
 [[files]]
@@ -126,23 +121,23 @@ hash = "1de81f64a41c02dc8e1cea337b86ba179b08a19b2dc4ebccb221cd99e25e78a2"
 metafile = true
 
 [[files]]
-file = "mods/create-chunkloading.pw.toml"
-hash = "34877b36910551c5b9c8053d38e1e5523c83bc1a7cc309a97ade5cf28c931ad1"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "08844dfec095ba98a740978371034ae36f6b344f50a894ab29d91f2abbbbae7b"
 metafile = true
 
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
-hash = "de5c7aa60041c4d5afa71de8d2713020773f2c9a8c9f3ac5de5e996df7fd2f6e"
+hash = "c1f9cec7fd47bd592b8f2c45f5a5549a1df5aedf111670ed814ac69ed3891003"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "1a1a6c67cd66cc59595b773246acb3342673db3c1c0961ee55a3c31f8dc2c7a6"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "d4908c75b0453d3ab14d14aec78e24de90ec17f043e226f7df28374bce4f316b"
 metafile = true
 
 [[files]]
@@ -152,12 +147,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
+hash = "8f7b16bd319a4c534acbc80f83e4359b756b301c76444d5a0afa1d1cb45d20a4"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "84969497cac60572e2030d20c065d6fa34a00cb6d510d182e630d8f8a0ff1de5"
+hash = "c0237aeac864e47c8e55d4dad9f37cd3c81e2314f2af279337c3cb562800a158"
 metafile = true
 
 [[files]]
@@ -181,6 +176,11 @@ hash = "a755d072163628ead956fa2bc96b6e6d7902f4d0a3a08cf6a71d0f6ff77c091f"
 metafile = true
 
 [[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "c6e57865d881bc8ee8271dc40e471b2e50415a32063e9cbe91ef4deb78fe28c6"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "d30f94aab18d9ad671e52d77c8b9b081c46d9084a7e8177d03b4723e1e094a4e"
 metafile = true
@@ -192,7 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "b37412171124265e13066099e57c9442bd61f471e594c6878a2d788df6a8927c"
+hash = "8ed5d3f0995487b1d33f1d852eff7b106faec863500b4e5de840923adefb94ba"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "4513f335ca3218be14b25379fad8cdfefc7d91be487cbb97aa9e718751440746"
 metafile = true
 
 [[files]]
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "51068d22d8b379b25b88d4e1a9762465a0770f8770f9d056108c9b1d52201392"
+hash = "9fbe155defd2c4090d4b4f530a37b4760ef457b083095961d911970acbd6badb"
 metafile = true
 
 [[files]]
@@ -252,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d3895f5a7c2856f7284f6c22dd79398c08484ed8f308ae69e11f77aa24caf43b"
+hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
 metafile = true
 
 [[files]]
@@ -301,18 +306,8 @@ hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "edd04b47948850d3937f8e8867a99a3695b50d3bd0955f749b12f08a1bd8b7cd"
-metafile = true
-
-[[files]]
 file = "mods/personality.pw.toml"
 hash = "2e095c082ae84beb71ebb8eed67ea507ec49344bfaee26362fe6f1ded8af3070"
-metafile = true
-
-[[files]]
-file = "mods/pet-cemetery.pw.toml"
-hash = "b32ebd23d944cb8735769b53839031053da1f0c950c4f3b017e20b57f4b0df1d"
 metafile = true
 
 [[files]]
@@ -333,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "298fbac260fe9bea44902ba0e05e1ea36f8550bf73f40266f35846565783097c"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "b6b225bb3ccd82a9c0103713f04750fcd425abd919909bbc79289a1b7923f3cf"
 metafile = true
 
 [[files]]
@@ -372,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "07830fcf6d4b6c3e4d266d2162ee2a3b7210119d57ca02ff1f683e58c6b9bfc0"
+hash = "258136d1058bc0be9f2fed973d8905e332e94ab3a85f0211bd5f9a6a1ad9b530"
 metafile = true
 
 [[files]]
@@ -382,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "83a0ae732431c606004ff31ee951183aa6a345635c533bd8bfbae27313b3969c"
+hash = "9a4cf2b30b698532774ab0b99b1c0bfe0263b2730fbebd20b4cd72f84835b528"
 metafile = true
 
 [[files]]
@@ -402,12 +392,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5de4c80ab3218f8e28ab2e978a4a260d03221b81fbdc88c5aa308a04fe88b74f"
+hash = "f66e5f6ec4db6eb852ff29dcad2f81c36448e72e030b0093718c79629439aa82"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "34642b56e9862dd06fcaad43758bef3a849109007307b26637289300ca18b8f5"
+hash = "db7b91acddea7ea8e2550480ef7ee5b4599d9de6c50c10ee9309d15a756e4f3a"
 metafile = true
 
 [[files]]
