@@ -311,6 +311,11 @@ hash = "2e095c082ae84beb71ebb8eed67ea507ec49344bfaee26362fe6f1ded8af3070"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "acf3d6451ac44c6ae1c17f50b65eb8495ed24f851f818f45346a15d93696f611"
+metafile = true
+
+[[files]]
 file = "mods/project-871698.pw.toml"
 hash = "aed87c198bfc51e27b19b995e91ae21e93022dca2e36b73354140d133191437e"
 metafile = true
