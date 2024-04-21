@@ -1,0 +1,13 @@
+name = "Create: Blueprint Void"
+filename = "bpvoid-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6dcn3sS1/versions/j3TDi9Nf/bpvoid-1.0.1.jar"
+hash-format = "sha1"
+hash = "4d8392c26ece018ca2b5e2fbb0b5fb435c1ece3d"
+
+[update]
+[update.modrinth]
+mod-id = "6dcn3sS1"
+version = "j3TDi9Nf"

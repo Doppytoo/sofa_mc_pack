@@ -1,0 +1,13 @@
+name = "Create: Quality of Life"
+filename = "createqol-1.20.1-1.1-ht1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hezpkOYP/versions/va8f6cYU/createqol-1.20.1-1.1-ht1.jar"
+hash-format = "sha1"
+hash = "019d1afd00b98893a288353b0a730494e4e51c5b"
+
+[update]
+[update.modrinth]
+mod-id = "hezpkOYP"
+version = "va8f6cYU"
