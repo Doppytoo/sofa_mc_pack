@@ -1,13 +1,13 @@
 name = "Berry Good"
-filename = "berry_good-1.19.2-6.1.0.jar"
+filename = "berry_good-1.20.1-7.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/2WZWaKCl/versions/a8xhP8dI/berry_good-1.20.1-7.0.0.jar"
 hash-format = "sha1"
-hash = "79d481d12b4e148f1433f52359292fb2967e4b83"
-mode = "metadata:curseforge"
+hash = "ae052f061baeffac6d7e79a570fe7341081d83cd"
 
 [update]
-[update.curseforge]
-file-id = 4776143
-project-id = 355589
+[update.modrinth]
+mod-id = "2WZWaKCl"
+version = "a8xhP8dI"

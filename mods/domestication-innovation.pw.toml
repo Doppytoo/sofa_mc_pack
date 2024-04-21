@@ -1,13 +1,13 @@
 name = "Domestication Innovation"
-filename = "domesticationinnovation-1.6.1-1.19.2.jar"
+filename = "domesticationinnovation-1.7.1-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/h5JyLdjM/versions/FQhDA1rS/domesticationinnovation-1.6.1-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/h5JyLdjM/versions/SGxCLghg/domesticationinnovation-1.7.1-1.20.1.jar"
 hash-format = "sha1"
-hash = "9d26f64a4dac8e4a36f7e3578c8b7df2ac050372"
+hash = "8feae4ba8a3ffb117fa7b3b4291a520e2497fa1e"
 
 [update]
 [update.modrinth]
 mod-id = "h5JyLdjM"
-version = "FQhDA1rS"
+version = "SGxCLghg"

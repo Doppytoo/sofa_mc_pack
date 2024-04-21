@@ -1,13 +1,13 @@
 name = "Autumnity"
-filename = "autumnity-1.19.2-4.0.1.jar"
+filename = "autumnity-1.20.1-5.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/cRh6MJ6n/versions/9frC1dPB/autumnity-1.20.1-5.0.0.jar"
 hash-format = "sha1"
-hash = "851303e6fb52410709b270f40609806fac9621b9"
-mode = "metadata:curseforge"
+hash = "34f802e01d17ab564e4e34a79698ab8a76dc47da"
 
 [update]
-[update.curseforge]
-file-id = 4776187
-project-id = 365045
+[update.modrinth]
+mod-id = "cRh6MJ6n"
+version = "9frC1dPB"

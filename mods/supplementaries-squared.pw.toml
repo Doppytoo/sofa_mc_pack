@@ -1,13 +1,13 @@
 name = "Supplementaries Squared"
-filename = "suppsquared-1.19.2-1.1.1.jar"
+filename = "suppsquared-1.20-1.1.14.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/8PXoizc7/suppsquared-1.20-1.1.14.jar"
 hash-format = "sha1"
-hash = "207e9ea21b107dfecb2de8dca7a587adc11afe39"
-mode = "metadata:curseforge"
+hash = "1b02c35166233a7d59200456603b1fc3880497aa"
 
 [update]
-[update.curseforge]
-file-id = 4547170
-project-id = 838411
+[update.modrinth]
+mod-id = "dCCkNFwE"
+version = "8PXoizc7"

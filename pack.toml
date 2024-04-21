@@ -1,13 +1,13 @@
-name = "Sofa"
+name = "NeoSofa"
 author = "Doppytoo"
-version = "0.1.2"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "22d1a36555dc3b0186190b3dd87866e32ac8cf67d97b8036f00880e40b7fea80"
+hash = "c232c507b7e1401fddcb09bc787e5ae4fe9fee56ca914788d937d6409adbc296"
 
 [versions]
-forge = "43.3.0"
-minecraft = "1.19.2"
+minecraft = "1.20.1"
+neoforge = "47.1.104"
