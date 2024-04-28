@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "list.txt"
-hash = "358285f4ed6d01427eeaa268950424cfa3d9eb42e5c59164f96de50dab65d3e0"
+hash = "96884278d78680fb7d3b93ea5bd83186d1be8d0c0c62505a07ac2ee7c0ebe1ac"
 
 [[files]]
 file = "mods/alexs-caves.pw.toml"
@@ -289,6 +289,11 @@ hash = "815edded2c6be145f2a82e48a4044955e4969a220d29d4290f395d38a6ff15e8"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-now-loading.pw.toml"
+hash = "2959ec036a76959ce1f9cd62e949f75d9996cfcbd4d6897c094f75af5a27ba47"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-plus.pw.toml"
 hash = "891ef1345582f82bca1be7027bb4206e80d94d25b0f388aef5170ae04093433a"
 metafile = true
@@ -311,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
@@ -496,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/woodworks.pw.toml"
 hash = "1f80ab2adb2d6a9785d51a56a458a7fdfb4f309e1e2fc49f76ba00238982850d"
+metafile = true
+
+[[files]]
+file = "mods/worldborderfixer-unofficial.pw.toml"
+hash = "c13180ffca83dd33133a4606352bac989072ab990fd39ed0c159f973ee7016a5"
 metafile = true
 
 [[files]]
