@@ -1,13 +1,13 @@
 name = "Multi World Borders Unofficial"
-filename = "worldborderfixer-2024.1.2 (1.20).jar"
+filename = "worldborderfixer-2024.5.2 (1.20).jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/BPjPMSiP/versions/GCPXhJE8/worldborderfixer-2024.1.2%20%281.20%29.jar"
+url = "https://cdn.modrinth.com/data/BPjPMSiP/versions/xnQ0Gz5x/worldborderfixer-2024.5.2%20%281.20%29.jar"
 hash-format = "sha1"
-hash = "e75134f0072a85834ad83cc7a74e6ffaec3cac29"
+hash = "f08b777dd61917443ac47cec5b130a2ac2a96fa4"
 
 [update]
 [update.modrinth]
 mod-id = "BPjPMSiP"
-version = "GCPXhJE8"
+version = "xnQ0Gz5x"
